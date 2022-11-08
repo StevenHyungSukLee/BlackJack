@@ -1,8 +1,3 @@
-/*
-THIS CODE WAS MY OWN WORK , IT WAS WRITTEN WITHOUT CONSULTING ANY
-SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. HyungSuk_Lee
-*/
-
 import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.JOptionPane;
